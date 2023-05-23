@@ -1,0 +1,5 @@
+figure.figsize: 16,6
+
+font.sans-serif: Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+font.family: sans-serif
+font.size: 16
